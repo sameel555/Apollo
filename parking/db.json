@@ -1,0 +1,103 @@
+{
+  "places": [
+    {
+      "Forex": {
+        "vehicle_type": [
+          {
+            "2_wheeler": {
+              "fare": {
+                "2": 10,
+                "4": 20
+              },
+              "parking_lot":500
+            }
+          },
+          {
+            " Hatchback_Car": {
+              "fare": {
+                "2": 20,
+                "4": 40
+              },
+              "parking_lot":50
+            }
+          },
+          {
+            "SUV_Car": {
+              "fare": {
+                "2": 30,
+                "4": 50
+              },
+              "parking_lot":30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Apollo": {
+        "vehicle_type": [
+          {
+            "2_wheeler": {
+              "fare": {
+                "2": 10,
+                "4": 20
+              },
+              "parking_lot":500
+            }
+          },
+          {
+            " Hatchback_Car": {
+              "fare": {
+                "2": 20,
+                "4": 40
+              },
+              "parking_lot":50
+            }
+          },
+          {
+            "SUV_Car": {
+              "fare": {
+                "2": 30,
+                "4": 50
+              },
+              "parking_lot":30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Obron": {
+        "vehicle_type": [
+          {
+            "2_wheeler": {
+              "fare": {
+                "2": 10,
+                "4": 20
+              },
+              "parking_lot":500
+            }
+          },
+          {
+            " Hatchback_Car": {
+              "fare": {
+                "2": 20,
+                "4": 40
+              },
+              "parking_lot":50
+            }
+          },
+          {
+            "SUV_Car": {
+              "fare": {
+                "2": 30,
+                "4": 50
+              },
+              "parking_lot":30
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
